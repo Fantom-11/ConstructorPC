@@ -1,0 +1,20 @@
+[
+  {
+    "component": "PROCESSOR",
+    "model": "PKL-78",
+    "manufacturer": "GYGABYTE",
+    "price": 14.52
+  },
+  {
+    "component": "PROCESSOR",
+    "model": "PBN-12",
+    "manufacturer": "LENOVO",
+    "price": 15.52
+  },
+  {
+    "component": "PROCESSOR",
+    "model": "PMN-71",
+    "manufacturer": "SAMSUNG",
+    "price": 56.52
+  }
+]

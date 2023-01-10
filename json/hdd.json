@@ -1,0 +1,20 @@
+[
+  {
+    "component": "HDD",
+    "model": "GH-89",
+    "manufacturer": "LENOVO",
+    "price": 56.87
+  },
+  {
+    "component": "HDD",
+    "model": "JK-21",
+    "manufacturer": "GYGABYTE",
+    "price": 65.41
+  },
+  {
+    "component": "HDD",
+    "model": "KL-81",
+    "manufacturer": "GYGABYTE",
+    "price": 23.98
+  }
+]

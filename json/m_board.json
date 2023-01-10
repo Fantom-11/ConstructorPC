@@ -1,0 +1,20 @@
+[
+  {
+    "component": "MOTHER_BOARD",
+    "model": "MYU-78",
+    "manufacturer": "LENOVO",
+    "price": 56.87
+  },
+  {
+    "component": "MOTHER_BOARD",
+    "model": "MTR-61",
+    "manufacturer": "SAMSUNG",
+    "price": 12.87
+  },
+  {
+    "component": "MOTHER_BOARD",
+    "model": "MPO-67",
+    "manufacturer": "GYGABYTE",
+    "price": 14.52
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "login": "admin1",
+    "password": "123456",
+    "admin": true
+  },
+  {
+    "login": "admin2",
+    "password": "123456",
+    "admin": true
+  },
+  {
+    "login": "Andrey",
+    "password": "44",
+    "admin": false
+  },
+  {
+    "login": "Vladimir",
+    "password": "33",
+    "admin": false
+  },
+  {
+    "login": "Vadim",
+    "password": "123456",
+    "admin": false
+  },
+  {
+    "login": "John",
+    "password": "44",
+    "admin": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "component": "RAM",
+    "model": "AM-89",
+    "manufacturer": "SAMSUNG",
+    "price": 12.45
+  },
+  {
+    "component": "RAM",
+    "model": "TR-75",
+    "manufacturer": "HP",
+    "price": 35.63
+  },
+  {
+    "component": "RAM",
+    "model": "FD-89",
+    "manufacturer": "LENOVO",
+    "price": 56.87
+  }
+]
